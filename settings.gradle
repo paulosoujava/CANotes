@@ -1,0 +1,3 @@
+rootProject.name = "CANotes"
+include ':app'
+include ':app:core'
